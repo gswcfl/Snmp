@@ -1,0 +1,4 @@
+ system
+ snmp community test rw v2c
+ snmp trap 11.11.11.11 162
+ snmp trap 11.11.11.11 162

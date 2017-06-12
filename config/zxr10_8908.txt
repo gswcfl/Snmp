@@ -1,0 +1,4 @@
+ configure terminal
+ snmp-server community test view AllView ro
+ snmp-server host 11.11.11.11 trap version 2c test
+ snmp-server host 11.11.11.11 trap version 2c test

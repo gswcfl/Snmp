@@ -1,0 +1,9 @@
+ system-view
+ snmp-agent community read test
+ snmp-agent community write test
+ snmp-agent target-host trap address udp-domain 11.11.11.11 params securityname test v2c
+ snmp-agent target-host trap address udp-domain 11.11.11.11 params securityname test v2c
+ snmp-agent target-host trap address udp-domain 11.11.11.11 params securityname test v2c
+ info-center loghost 11.11.11.11
+ info-center loghost 11.11.11.11
+ info-center loghost 11.11.11.11

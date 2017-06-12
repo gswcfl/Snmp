@@ -1,0 +1,6 @@
+ configure terminal
+ snmp-server community test ro
+ snmp-server community test rw
+ snmp-server host 11.11.11.11 version 2c test
+ snmp-server host 11.11.11.11 version 2c test
+ snmp-server host 11.11.11.11 version 2c test

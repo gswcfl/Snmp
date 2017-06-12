@@ -1,0 +1,7 @@
+ system
+ snmp community read v2 test
+ snmp community write v2 test
+ snmp host 11.11.11.11 162
+ snmp host 11.11.11.11 162
+ snmp host 11.11.11.11 162
+
